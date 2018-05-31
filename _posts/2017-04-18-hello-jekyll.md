@@ -1,17 +1,17 @@
 ---
 layout: post
-title: 'hair segmentation model selling'
+title: 'react native firebase push 연동 (IOS,ANDROID)'
 date: 2017-04-18
 author: Jekyll
 cover: 'http://on2171g4d.bkt.clouddn.com/jekyll-banner.png'
 tags: segmentation
 ---
 
-> Transform your plain text into static websites and blogs.
+>>Firebase react-native 모듈이 설치가 되있어야합니다.
 
-### Welcome
+### 설치 방법 ( IOS )
 
-This site aims to be a comprehensive guide to Jekyll. We’ll cover topics such as getting your site up and running, creating and managing your content, customizing the way your site works and looks, deploying to various environments, and give you some advice on participating in the future development of Jekyll itself.
+가장 먼저 Firebase Console 에서 프로젝트 생성후 GoogleService-Info.plist 파일을 다운로드 해야 합니다. 그리고 다운받은 파일을 "ios/[YOUR APP NAME]/GoogleService-Info.plist" 경로에 저장합니다.
 
 ### So what is Jekyll, exactly?Permalink
 

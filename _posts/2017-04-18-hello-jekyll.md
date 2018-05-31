@@ -11,7 +11,13 @@ tags: segmentation
 
 ### 설치 방법 ( IOS )
 
-가장 먼저 Firebase Console 에서 프로젝트 생성후 GoogleService-Info.plist 파일을 다운로드 해야 합니다. 그리고 다운받은 파일을 "ios/[YOUR APP NAME]/GoogleService-Info.plist" 경로에 저장합니다.
+가장 먼저 Firebase Console 에서 프로젝트 생성후 GoogleService-Info.plist 파일을 다운로드 해야 합니다. 그리고 다운받은 파일을 
+"ios/[YOUR APP NAME]/GoogleService-Info.plist" 경로에 저장합니다. 그 다음으로 코드 셋팅을 해야 합니다.
+
+<pre><code>
+#import <Firebase.h>
+</pre>
+
 
 ### So what is Jekyll, exactly?Permalink
 
